@@ -13,9 +13,7 @@ The ML repo uses:
 
 #### Running each project locally:
 
-This repository uses docker to run each project indivually. To run each ML subproject run the following while in the ROOT of this directory, appending the type of algorithm and algorithm name after:
-
-eg. `sh runners/run.sh supervised cnn`
+This repository uses jupyter-notebooks to run each project. Make sure to install jupyter notebooks along with required dependencies.
 
 
 ### Projects:
@@ -23,8 +21,8 @@ eg. `sh runners/run.sh supervised cnn`
 In `/projects`:
 
 - Supervised Projects: 
-    - `Linear Regression`:
-    - `Logistic Regression`:
+    - `Linear Regression`: Car Prices data from `kaggle.com` using pipeline to normalise then train and predict.
+    - `Logistic Regression`: Hear Disease data from `kaggle.com` using scaling and normalisation in a pipeline before making inferences.
     - `SVM` (Support Vector Machines):
     - `KNN` (K-Nearest Neighbour):
     - `NB` (NaiveBayes):

@@ -16,7 +16,7 @@ __pycache__
 **/coverage-reports/*
 **/.DS_Store
 .DS_Store
-
+.vscode
 # Logs
 logs
 *.log
