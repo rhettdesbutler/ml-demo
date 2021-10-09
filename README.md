@@ -23,13 +23,13 @@ eg. `sh runners/run.sh supervised cnn`
 In `/projects`:
 
 - Supervised Projects: 
-    - Linear Regression:
-    - Logistic Regression:
-    - SVM (Support Vector Machines):
-    - KNN (K-Nearest Neighbour):
-    - NB (NaiveBayes):
-    - CNN (Convolutional Neural Network):
+    - `Linear Regression`:
+    - `Logistic Regression`:
+    - `SVM` (Support Vector Machines):
+    - `KNN` (K-Nearest Neighbour):
+    - `NB` (NaiveBayes):
+    - `CNN` (Convolutional Neural Network):
 
 - Unsupervised Projects:
-  - KMeans:
-  - DBSCAN:
+  - `KMeans`:
+  - `DBSCAN`:
