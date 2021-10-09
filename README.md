@@ -26,7 +26,7 @@ In `/projects`:
     - `SVM` (Support Vector Machines):
     - `KNN` (K-Nearest Neighbour):
     - `NB` (NaiveBayes):
-    - `CNN` (Convolutional Neural Network):
+    - `CNN` (Convolutional Neural Network): Download and unzip data to `datasets/supervised/fish_data` location from `https://www.kaggle.com/crowww/a-large-scale-fish-dataset/download`
 
 - Unsupervised Projects:
   - `KMeans`:
