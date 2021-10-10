@@ -7,6 +7,7 @@ Repo for showing current knowledge and capabilities of the author regarding Mach
 The ML repo uses:
 
 - Scikit-learn
+- Tensorflow
 - Python
 
 ### Deployment
